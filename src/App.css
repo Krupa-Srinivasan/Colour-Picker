@@ -1,0 +1,44 @@
+.colorpicker
+{
+  width:60%;
+  height:600px;
+  margin: 200px auto;
+  margin-top:40px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color:  #FAF8F6;
+}
+.colorbox
+{
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  
+}
+
+h1
+{
+  text-align: center;
+  font-size:40px;
+  color:black;
+}
+
+button
+{
+  border-radius:10px;
+  background-color:#bdcc72;
+  color:black;
+  font-size:20px;
+  padding:10px;
+  
+}
+
+body
+{
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
